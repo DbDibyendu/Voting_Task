@@ -1,0 +1,27 @@
+[
+    {
+        "_id": 1,
+        "name": "FC Barcelona",
+        "logo": "fcb.png",
+        "votes":0
+    },
+    {
+        "_id": 2,
+        "name": "Real Madrid",
+        "logo": "Real_Madrid_CF.png",
+        "votes":0
+    },
+    {
+        "_id": 3,
+        "name": "FC Bayern Munich",
+        "logo": "FC_Bayern.png",
+        "votes":0
+    },
+    {
+        "_id": 4,
+        "name": "Liverpool",
+        "logo": "Liverpool_FC.png",
+        "votes":0
+    }
+
+]
